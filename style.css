@@ -1,0 +1,36 @@
+body
+{
+margin: 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-image: url(https://webneel.com/wallpaper/sites/default/files/images/08-2018/3-nature-wallpaper-mountain.jpg);height: 100vh;
+justify-content: center;
+
+}
+
+
+h1{
+    color: white;
+    margin-bottom: 0%;
+}
+
+.document
+{
+display: flex;
+
+}
+a {
+    color: aqua;
+}
+i{
+    color: yellow;
+    margin-right: 10px;
+    
+    
+}
+
+.heading1{
+    color: white;
+
+}
